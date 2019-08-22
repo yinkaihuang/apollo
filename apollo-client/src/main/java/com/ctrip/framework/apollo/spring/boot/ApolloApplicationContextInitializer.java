@@ -149,7 +149,7 @@ public class ApolloApplicationContextInitializer implements
 
     // should always initialize system properties like app.id in the first place
     initializeSystemProperty(configurableEnvironment);
-
+    //判断是否进行apollo的前缀加载，已经有人提过issue详细使用https://github.com/ctripcorp/apollo/pull/1614
     Boolean eagerLoadEnabled = configurableEnvironment.getProperty(PropertySourcesConstants.APOLLO_BOOTSTRAP_EAGER_LOAD_ENABLED, Boolean.class, false);
 
     //EnvironmentPostProcessor should not be triggered if you don't want Apollo Loading before Logging System Initialization
