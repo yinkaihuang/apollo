@@ -114,44 +114,6 @@ Java客户端不依赖任何框架，能够运行于所有Java运行时环境，
   * [开源配置中心Apollo的设计与实现](https://www.infoq.cn/article/open-source-configuration-center-apollo)
   * [配置中心，让微服务更『智能』](https://mp.weixin.qq.com/s/iDmYJre_ULEIxuliu1EbIQ)
 
-# Support
-<table>
-  <thead>
-    <th>Apollo技术支持④群<br />群号：516773934 </th>
-    <th>Apollo技术支持③群<br />群号：742035428（已满）</th>
-    <th>Apollo技术支持②群<br />群号：904287263（已满）</th>
-    <th>Apollo技术支持①群<br />群号：375526581（已满）</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/ctripcorp/apollo/master/doc/images/tech-support-qq-4.png" alt="tech-support-qq-4"></td>
-      <td><img src="https://raw.githubusercontent.com/ctripcorp/apollo/master/doc/images/tech-support-qq-3.png" alt="tech-support-qq-3"></td>
-      <td><img src="https://raw.githubusercontent.com/ctripcorp/apollo/master/doc/images/tech-support-qq-2.png" alt="tech-support-qq-2"></td>
-      <td><img src="https://raw.githubusercontent.com/ctripcorp/apollo/master/doc/images/tech-support-qq-1.png" alt="tech-support-qq-1"></td>
-    </tr>
-  </tbody>
-</table>
-
-# Contribution
-
-Please make sure to read the [Contributing Guide](https://github.com/ctripcorp/apollo/blob/master/CONTRIBUTING.md) before making a pull request.
-
-Thanks for all the people who contributed to Apollo!
-
-<a href="https://github.com/ctripcorp/apollo/graphs/contributors"><img src="https://opencollective.com/apollo/contributors.svg?width=880&button=false" /></a>
-
-# License
-The project is licensed under the [Apache 2 license](https://github.com/ctripcorp/apollo/blob/master/LICENSE).
-
-# Awards
-
-<img src="https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/awards/oschina-2018-award.jpg" width="240px" alt="2018 年度最受欢迎中国开源软件">
-
-# Stargazers over time
-
-[![Stargazers over time](https://starcharts.herokuapp.com/ctripcorp/apollo.svg)](https://starcharts.herokuapp.com/ctripcorp/apollo)
-
-
 # apollo切入springboot的时机
 
 !["apollo切入时机"](https://user-images.githubusercontent.com/7589877/47649816-5e295580-dbb9-11e8-97d7-d2fdd64afdaa.png)
